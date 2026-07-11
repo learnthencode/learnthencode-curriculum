@@ -426,6 +426,14 @@ Answer:
 
 ---
 
+# Key Takeaways
+
+- Computers receive input, process information, store data, and produce output.
+- Hardware refers to the physical components of a computer, while software consists of the instructions that control the hardware.
+- Operating systems manage hardware resources and provide an environment for applications to run.
+- Programs and applications work together with the operating system to perform useful tasks.
+- Source code is translated into machine-executable instructions before hardware can execute it.
+
 # Summary
 
 In this lesson, you learned:
@@ -442,6 +450,18 @@ Remember:
 > **Software does not exist separately from computers. Great software engineers understand both the instructions they write and the machines that execute them.**
 
 ---
+
+# Before You Continue
+
+Before moving to the next lesson, make sure you can confidently:
+
+- [ ] Explain the difference between hardware and software.
+- [ ] Describe how a computer processes information.
+- [ ] Explain the purpose of an operating system.
+- [ ] Differentiate applications from programs.
+- [ ] Describe how source code becomes executable instructions.
+
+If you are unsure about any of the above, review this lesson before continuing.
 
 # What's Next?
 

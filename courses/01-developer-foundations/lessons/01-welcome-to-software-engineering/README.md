@@ -304,6 +304,14 @@ Record your answers in your learning journal.
 
 ---
 
+# Key Takeaways
+
+- Software is a collection of instructions that enables computers to perform useful tasks.
+- Software engineering is about solving problems using engineering principles.
+- Coding is writing instructions, while programming involves designing complete solutions.
+- Software development focuses on creating software, while software engineering considers the entire software lifecycle.
+- Successful software engineers develop curiosity, problem-solving skills, collaboration, and a commitment to continuous learning.
+
 # Summary
 
 In this lesson, you learned:
@@ -319,6 +327,18 @@ Remember:
 > **A software engineer is not defined by the amount of code they write, but by the problems they can solve and the solutions they can build.**
 
 ---
+
+# Before You Continue
+
+Before moving to the next lesson, make sure you can confidently:
+
+- [ ] Explain what software is.
+- [ ] Define software engineering.
+- [ ] Differentiate coding from programming.
+- [ ] Differentiate software development from software engineering.
+- [ ] Describe the mindset of a software engineer.
+
+If you are unsure about any of the above, review this lesson before continuing.
 
 # What's Next?
 

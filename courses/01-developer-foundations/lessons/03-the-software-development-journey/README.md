@@ -377,6 +377,14 @@ Record your answers in your learning journal.
 
 ---
 
+# Key Takeaways
+
+- Every successful software product begins with understanding a problem.
+- Requirements help developers understand what software should do and how it should perform.
+- Planning and design reduce risks and improve software quality.
+- Development, testing, deployment, and maintenance are all essential stages of the Software Development Lifecycle (SDLC).
+- Professional software engineering is a collaborative effort involving multiple roles and continuous improvement.
+
 # Summary
 
 In this lesson, you learned:
@@ -395,6 +403,18 @@ Remember:
 > **Software engineering is not just about building software. It is about understanding problems, designing solutions, and continuously improving them.**
 
 ---
+
+# Before You Continue
+
+Before moving to the next lesson, make sure you can confidently:
+
+- [ ] Explain how problems become software solutions.
+- [ ] Describe the main stages of the Software Development Lifecycle (SDLC).
+- [ ] Differentiate functional requirements from non-functional requirements.
+- [ ] Explain why planning and design come before coding.
+- [ ] Describe the importance of testing, deployment, and maintenance.
+
+If you are unsure about any of the above, review this lesson before continuing.
 
 # What's Next?
 
