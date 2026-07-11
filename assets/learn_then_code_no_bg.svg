@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bracketGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F2A5F"/>
+      <stop offset="100%" stop-color="#1DA1F2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- LEFT BRACKET SHAPE -->
+  <polygon 
+    points="40,130 120,40 170,40 100,130 170,220 120,220"
+    fill="url(#bracketGrad)" />
+
+  <!-- RIGHT BRACKET SHAPE -->
+  <polygon 
+    points="1160,130 1080,40 1030,40 1100,130 1030,220 1080,220"
+    fill="url(#bracketGrad)" />
+
+  <!-- Brand Name -->
+  <text x="210" y="150"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="110"
+        font-weight="600"
+        fill="#0F2A5F">
+    LearnThen
+  </text>
+
+  <text x="740" y="150"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="110"
+        font-weight="600"
+        fill="#1DA1F2">
+    Code
+  </text>
+
+  <!-- Tagline -->
+  <text x="350" y="220"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="48"
+        fill="#1B2E4B">
+    Understand First. Build Next.
+  </text>
+
+</svg>
