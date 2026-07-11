@@ -16,7 +16,7 @@ The goal is simple:
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 By the end of this lesson, you should be able to:
 
@@ -29,7 +29,7 @@ By the end of this lesson, you should be able to:
 
 ---
 
-# Why This Matters
+## Why This Matters
 
 Many beginners start learning software development by immediately writing code.
 
@@ -48,7 +48,9 @@ It helps you become someone who can build solutions.
 
 ---
 
-# What Is Software?
+# Sub-lessons
+
+## What Is Software?
 
 Software is a collection of instructions, programs, and data that tell a computer how to perform tasks.
 
@@ -66,13 +68,11 @@ Examples of software include:
 
 Every time you use a smartphone application, visit a website, or interact with a digital service, you are using software.
 
----
-
-# Software Categories
+### Software Categories
 
 Software can be grouped into different categories.
 
-## System Software
+#### System Software
 
 System software manages computer hardware and provides a foundation for other applications.
 
@@ -83,9 +83,7 @@ Examples:
 - Linux.
 - Device drivers.
 
----
-
-## Application Software
+#### Application Software
 
 Application software helps users perform specific tasks.
 
@@ -96,22 +94,20 @@ Examples:
 - Mobile applications.
 - Video editing software.
 
----
-
-## Development Software
+#### Development Software
 
 Development software helps developers create other software.
 
 Examples:
 
-- Code editors (VS Code)
-- Programming language tools (Node.js)
-- Version control systems (Git)
-- Debugging tools (Chrome DevTools)
+- Code editors such as Visual Studio Code.
+- Programming language tools such as Node.js.
+- Version control systems such as Git.
+- Debugging tools such as Chrome DevTools.
 
 ---
 
-# What Is Software Engineering?
+## What Is Software Engineering?
 
 Software engineering is the discipline of designing, developing, testing, deploying, and maintaining software using engineering principles.
 
@@ -132,15 +128,15 @@ Software engineering combines:
 - Collaboration.
 - Continuous improvement.
 
+A software engineer focuses not only on creating software, but also on creating software that can be trusted, improved, and maintained.
+
 ---
 
-# Coding vs Programming
+## Coding vs Programming
 
 The terms coding and programming are often used interchangeably, but they represent different levels of activity.
 
----
-
-## What Is Coding?
+### What Is Coding?
 
 Coding is the process of writing instructions in a programming language that a computer can understand.
 
@@ -160,9 +156,7 @@ Coding focuses on:
 
 Coding is one part of programming.
 
----
-
-## What Is Programming?
+### What Is Programming?
 
 Programming is the broader process of creating solutions using code.
 
@@ -184,9 +178,7 @@ They also ask:
 
 > "What problem am I solving, and what is the best way to solve it?"
 
----
-
-## The Relationship
+### The Relationship Between Coding and Programming
 
 A simple way to remember:
 
@@ -204,13 +196,11 @@ All programming involves coding, but not all coding represents complete programm
 
 ---
 
-# Software Development vs Software Engineering
+## Software Development vs Software Engineering
 
-These terms are also closely related.
+These terms are closely related but represent different perspectives.
 
----
-
-## What Is Software Development?
+### What Is Software Development?
 
 Software development is the process of creating software products.
 
@@ -225,9 +215,7 @@ It includes activities such as:
 
 A software developer contributes to building software solutions.
 
----
-
-## What Is Software Engineering?
+### What Is Software Engineering?
 
 Software engineering applies engineering principles to software development.
 
@@ -238,29 +226,27 @@ Software engineers think about:
 - How teams can collaborate effectively.
 - How software can remain reliable over time.
 
----
-
-## The Difference
-
-A simple comparison:
+### Understanding the Difference
 
 | Software Development | Software Engineering |
 | --- | --- |
 | Focuses on creating software | Focuses on creating software using engineering principles |
-| Often focuses on implementation | Considers the entire system lifecycle |
-| May focus on individual features | Considers scalability and maintainability |
+| Often focuses on implementation | Considers the complete software lifecycle |
+| May focus on individual features | Considers scalability, reliability, and maintainability |
 
-Both are important. Software engineering builds upon software development by adding deeper engineering practices.
+Both are important.
+
+Software engineering builds upon software development by introducing engineering practices that help teams create better software.
 
 ---
 
-# The Software Engineer Mindset
+## The Software Engineer Mindset
 
 Becoming a software engineer requires more than learning programming languages.
 
-A software engineer develops habits such as:
+A software engineer develops habits and ways of thinking that support effective problem-solving.
 
-## Curiosity
+### Curiosity
 
 Great engineers ask questions:
 
@@ -268,9 +254,7 @@ Great engineers ask questions:
 - How does this system operate?
 - Is there a better approach?
 
----
-
-## Problem Solving
+### Problem Solving
 
 Software engineering is about solving problems.
 
@@ -281,9 +265,7 @@ Instead of immediately writing code, engineers:
 3. Design a solution.
 4. Implement and test.
 
----
-
-## Continuous Learning
+### Continuous Learning
 
 Technology changes constantly.
 
@@ -294,9 +276,7 @@ Successful engineers learn how to:
 - Adapt to new tools.
 - Improve their skills.
 
----
-
-## Collaboration
+### Collaboration
 
 Software is rarely built alone.
 
@@ -309,16 +289,18 @@ Engineers collaborate through:
 
 ---
 
-# Reflection Activity
+# Practical Activity / Lab
 
-Before continuing, think about these questions:
+## Reflection Activity: Understanding Software Engineering
+
+Before continuing, answer the following questions:
 
 1. What is the difference between coding and programming?
 2. Why is software engineering more than writing code?
 3. What qualities do you think a good software engineer should have?
 4. Why do you think understanding fundamentals is important?
 
-Write your answers in your learning journal.
+Record your answers in your learning journal.
 
 ---
 
@@ -342,6 +324,6 @@ Remember:
 
 Now that you understand what software engineering is, the next lesson will explore:
 
-# Understanding Computers and Software
+**Understanding Computers and Software**
 
 You will learn how computers, operating systems, and applications work together to make software possible.
