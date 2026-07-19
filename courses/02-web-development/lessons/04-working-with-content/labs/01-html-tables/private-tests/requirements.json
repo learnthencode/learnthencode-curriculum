@@ -1,0 +1,89 @@
+{
+  "requirements": [
+    {
+      "id": "table-001",
+      "category": "HTML",
+      "topic": "Tables",
+      "difficulty": "beginner",
+      "learningObjective": "Create an HTML table.",
+      "estimatedTime": 1,
+      "name": "Page contains one table",
+      "description": "Use one table element.",
+      "hint": "Create a <table> element.",
+      "points": 5,
+      "check": {
+        "type": "count",
+        "selector": "table",
+        "equals": 1
+      }
+    },
+    {
+      "id": "table-002",
+      "category": "HTML",
+      "topic": "Tables",
+      "difficulty": "beginner",
+      "learningObjective": "Create table rows.",
+      "estimatedTime": 1,
+      "name": "Table contains three rows",
+      "description": "Use three table rows.",
+      "hint": "Each menu item should be inside its own <tr>.",
+      "points": 5,
+      "check": {
+        "type": "count",
+        "selector": "table tr",
+        "equals": 3
+      }
+    },
+    {
+      "id": "table-003",
+      "category": "HTML",
+      "topic": "Tables",
+      "difficulty": "beginner",
+      "learningObjective": "Create table cells.",
+      "estimatedTime": 1,
+      "name": "Table contains six cells",
+      "description": "Each row should contain two table cells.",
+      "hint": "Use two <td> elements inside every row.",
+      "points": 5,
+      "check": {
+        "type": "count",
+        "selector": "table td",
+        "equals": 6
+      }
+    },
+    {
+      "id": "table-004",
+      "category": "HTML",
+      "topic": "Tables",
+      "difficulty": "beginner",
+      "learningObjective": "Display menu items.",
+      "estimatedTime": 1,
+      "name": "Tea appears in the table",
+      "description": "Include Tea as a menu item.",
+      "hint": "One table cell should contain Tea.",
+      "points": 5,
+      "check": {
+        "type": "text",
+        "selector": "table",
+        "contains": "Tea"
+      }
+    },
+    {
+      "id": "table-005",
+      "category": "HTML",
+      "topic": "Tables",
+      "difficulty": "beginner",
+      "learningObjective": "Display menu prices.",
+      "estimatedTime": 1,
+      "name": "Hot Chocolate price is included",
+      "description": "Include the price for Hot Chocolate.",
+      "hint": "Don't forget the last menu item.",
+      "points": 5,
+      "check": {
+        "type": "text",
+        "selector": "table",
+        "contains": "KES 250"
+      }
+    }
+  ]
+}
