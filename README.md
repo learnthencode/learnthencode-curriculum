@@ -141,7 +141,7 @@ All contributions should align with the LearnThenCode philosophy and maintain a 
 
 ## License
 
-The license for this curriculum is provided in the repository's `LICENSE` file.
+[LearnThenCode License v1.0](./LICENSE) © 2026 Yahya Mohamed
 
 ---
 
